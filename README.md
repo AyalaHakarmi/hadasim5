@@ -113,7 +113,7 @@ This is a full-stack web application designed to help a local grocery store mana
 
 👉 I recorded a short video showing exactly how to run and use the system, and I showed how all the data is updated in the database.
 📂 The video file is included in the project under:  
-**`/demo/grocery-demo.mp4`**
+📺 Watch it here: [View on Google Drive]([https://drive.google.com/your-video-link](https://drive.google.com/file/d/1FDLk2Yeonlocn3JhhlwxBETagESlaadD/view?usp=sharing))
 
 > 🔴 Make sure to watch it before running the project!
 
