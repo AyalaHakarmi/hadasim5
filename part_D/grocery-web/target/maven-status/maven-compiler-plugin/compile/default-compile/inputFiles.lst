@@ -1,0 +1,16 @@
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\dto\OrderDTO.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\dto\OrderRequestDTO.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\dto\ProductDTO.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\dto\ProductWithSuppliersDTO.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\dto\SupplierDTO.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\dto\SupplierEntryDTO.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\dto\SupplierForRegisterDTO.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\groceryownerclient\beans\CreateOrderBean.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\groceryownerclient\beans\OwnerLoginBean.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\groceryownerclient\beans\SetMinStockBean.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\groceryownerclient\beans\ViewApproveBean.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\supplierclient\beans\OrderManagementBean.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\supplierclient\beans\ProductAddBean.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\supplierclient\beans\RegisterBean.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\supplierclient\beans\RegistrationSessionBean.java
+C:\Hadasim\grocery-web\src\main\java\com\hadasim\supplierclient\beans\SupplierLoginBean.java
