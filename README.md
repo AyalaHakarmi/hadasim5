@@ -46,6 +46,9 @@ To find the top N most frequent error types:
 ### Design Note:
 We used inheritance to handle CSV and Parquet differently while sharing common logic. This separation makes the code easier to test and extend.
 
+### Note 
+The attached parquet file is not in the correct format. Please replace it with a file in the correct format.
+
 ### Real-Time Stream Processing (Question 3, Part B)
 If the data arrives in a live stream rather than from a file, we must update the hourly averages incrementally, without having all the data in advance.
 
