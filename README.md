@@ -1,6 +1,6 @@
-# Hadassim 5 – Final Assignment
+# Hadassim 5 
 
-This repository contains solutions for the final assignment from the Hadassim course. Each part of the assignment is organized into its own directory:
+Each part of the assignment is organized into its own directory:
 
 ---
 
