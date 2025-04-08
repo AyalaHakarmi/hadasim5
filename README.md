@@ -2,16 +2,6 @@
 
 This repository contains solutions for the final assignment from the Hadassim course. Each part of the assignment is organized into its own directory:
 
-```
-HADASIM/
-├── part_A/
-│   ├── part_a_logs_analysis/      # Code for Part A – Log splitting and error counting
-│   └── part_b_time_series/        # Code for Part B – Time series cleaning and aggregation
-├── part_B/                        # (Not yet implemented)
-├── part_C/                        # Theoretical answers
-└── README.md                      # This file
-```
-
 ---
 
 ## ✅ Part A – Log Analysis (`part_A/part_a_logs_analysis`)
@@ -115,7 +105,7 @@ _Java-based Spring Boot Web Application with JSF UI (JoinFaces)_
 
 This is a full-stack web application designed to help a local grocery store manage inventory and order products from suppliers. It includes both server-side and client-side interfaces. The project implements all required features, **including the bonus task**.
 
-> ⚠️ **Note:** This project was built in a very short timeframe — so if there are some missing edge cases… _go easy on me_ 😅
+> ⚠️ **Note:** This project was built in a very short timeframe — so if there you fing some missing edge case… _go easy on me_ 😅
 
 ---
 
