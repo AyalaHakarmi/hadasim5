@@ -89,8 +89,6 @@ This approach allows constant-time updates and supports real-time streaming with
 ## ✅ Part C: 
 - Answers to the  questions from Part C are provided in the file part_C/answers.md.
 
-
----
 ---
 ## ✅ Part D:
 
